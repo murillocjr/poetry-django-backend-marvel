@@ -6,8 +6,8 @@ authors = ["murillocjr <murillo.cjr@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
-django = "^4.2.7"
+python = "3.11"
+django = "4.2.7"
 djangorestframework = "^3.14.0"
 
 
