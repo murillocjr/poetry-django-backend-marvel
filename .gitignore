@@ -1,0 +1,6 @@
+.DS_Store
+marvel/__pycache__
+marvel/migrations/__pycache__
+marvel_app/__pycache__
+marvel_app/__pycache__
+poetry.lock
