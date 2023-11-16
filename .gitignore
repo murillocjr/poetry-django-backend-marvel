@@ -4,3 +4,4 @@ marvel/migrations/__pycache__
 marvel_app/__pycache__
 marvel_app/__pycache__
 poetry.lock
+.idea
